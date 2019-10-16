@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eixaiphaec.colin.red/sitemap.xml
